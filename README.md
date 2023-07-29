@@ -1,6 +1,4 @@
-# CSC318 Assignment 4
-Maxwell Huang-Hobbs
-g4rbage / 1000675888
+
 
 ## Usage
 
